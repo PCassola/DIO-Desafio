@@ -1,2 +1,2 @@
-	# Comandos e suas Funcionalidades
+	# Comandos e suas Funcionalidades.
 
